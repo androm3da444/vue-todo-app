@@ -1,0 +1,13 @@
+.header{
+  background: orange;
+  color: white;
+  letter-spacing: 4px;
+}
+
+.font1{
+  font-family: 'Berkshire Swash', cursive;
+}
+
+.taskDone{
+  text-decoration: line-through;
+}
